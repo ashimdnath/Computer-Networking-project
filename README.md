@@ -61,8 +61,9 @@ Each client will:
 ---
 
 ## 📷 Screenshots
-*(Add your screenshots here once you capture the running application)*
 
+
+<img width="1648" height="821" alt="Screenshot 2025-09-05 123926" src="https://github.com/user-attachments/assets/4a176667-74f0-4846-bc20-8c12e80aae9f" />
 
 ---
 
